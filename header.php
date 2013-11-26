@@ -1,4 +1,5 @@
 <?php
+
 ob_start();
 error_reporting(0);
 include 'konfigurasi/koneksi.php';
